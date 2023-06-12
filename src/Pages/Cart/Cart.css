@@ -1,0 +1,21 @@
+.empty-cart {
+    background-color: rgb(208, 228, 177);
+    color: #535353;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+}
+.empty-cart p {
+    margin-top: 2.2rem;
+}
+.bi-trash {
+    cursor: pointer;
+    color: rgb(180, 12, 12);
+}
+.incbtn , .decbtn {
+    background-color: rgb(208, 228, 177);
+    color: #535353;
+    border: none;
+    margin: .6rem;
+    width: 1.8rem;
+    height: 1.8rem;
+}

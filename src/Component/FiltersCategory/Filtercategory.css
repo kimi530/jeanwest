@@ -1,0 +1,41 @@
+.filtercard {
+    margin-top: 3.8rem;
+}
+
+.gender , .age {
+    display: inline-flex;
+}
+.color Button {
+    margin: 1rem;
+    border-radius: 5rem;
+
+}
+
+.filtercard h4 {
+    margin-bottom: 2rem;
+}
+.p-multiselect {
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid black;
+    box-shadow: 0;
+    border-color: #333333;
+    transition: none;
+    
+}
+.p-multiselect:hover {
+    border-color: #333333 !important;
+}
+
+
+.p-multiselect-item {
+    direction: rtl;
+}
+.pricerange label{
+    margin: .2rem;
+}
+.p-multiselect .p-multiselect-label {
+    padding: 0.75rem 0.75rem;
+    transition: 0;
+}

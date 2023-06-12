@@ -1,0 +1,35 @@
+.account {
+    width: 90%;
+}
+
+.account-div {
+   left: 0;
+   right: 0;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 5rem;
+   border-radius: 1rem;
+   width: 40%;
+   padding: 3rem;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+/*** Extra small Devices ***/
+@media (max-width:767px) {
+    .account-div {
+        width: 90%;
+    }
+}
+/*** Small Devices ***/
+@media (min-width:768px) and (max-width:991px) {
+    .account-div {
+        width: 60%;
+    }
+}
+
+
+/*** Medium Devices ***/
+@media (min-width:992px) and (max-width:1199px) {
+    .account-div {
+        width: 60%;
+    }
+}

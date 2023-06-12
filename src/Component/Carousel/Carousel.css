@@ -1,0 +1,11 @@
+
+.p-carousel-indicators {
+  display: none;
+}
+.slides {
+  width: 17rem;
+  height: 10rem;
+}
+.slide-title {
+  font-size: 100%;
+}
